@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**noahryder-web/noahryder-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on getting better at **AI, game development, data analysis, and cybersecurity**  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Python, machine learning, and Jupyter Notebook**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on **fun AI or game dev projects**  
+
+🤔 I’m looking for help with **not breaking my code every 5 minutes**  
+
+💬 Ask me about **absolutely nothing, I’m still figuring it out**  
+
+📫 How to reach me: *coming soon... maybe*  
+
+⚡ Fun fact: `pip` and I have a love-hate relationship  
