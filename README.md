@@ -6,11 +6,11 @@
 
 👯 I’m looking to collaborate on **AI and cybersecurity projects**  
 
-🤔 I’m looking for help with **not breaking my code every 5 minutes**  
+🤔 I’m looking for help with **coding**  
 
 💬 Ask me about **absolutely nothing, I’m still figuring it out**  
 
-📫 How to reach me: *coming soon... maybe*  
+📫 How to reach me: *coming soon... 😏*  
 
-⚡ Fun fact: `pip` and I have a love-hate relationship  
+⚡ Fun fact: `pip` won't do anything I ask
 
