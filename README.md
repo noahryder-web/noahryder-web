@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on getting better at **AI, data analysis, and cybersecurity**  
 
-🌱 I’m currently learning **Python, machine learning, and Jupyter Notebook/pandas/TextBlob**  
+🌱 I’m currently learning **Python/C, machine learning, and Jupyter Notebook/pandas/TextBlob**  
 
 👯 I’m looking to collaborate on **AI and cybersecurity projects**  
 
