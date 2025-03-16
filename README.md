@@ -10,7 +10,7 @@
 
 💬 Ask me about **absolutely nothing, I’m still figuring it out**  
 
-📫 How to reach me: *coming soon... 😏*  
+📫 How to reach me: *emmerjabw@outlook.com 😏*  
 
 ⚡ Fun fact: `pip` won't do anything I ask
 
